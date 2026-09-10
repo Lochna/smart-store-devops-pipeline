@@ -33,6 +33,7 @@ if __name__ == "__main__":
         )
 
         print("SMART STORE MANAGEMENT SYSTEM")
+        print("Billing and Inventory Module")
         print("Product:", product_name)
         print("Purchased quantity:", purchased_quantity)
         print("Total bill: Rs.", bill_amount)
